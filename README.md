@@ -1,7 +1,7 @@
-# 汉化补丁 to 2.0.2 
-![进度](https://img.shields.io/badge/进度-99%25-orange?style=flat-square)
+# 汉化补丁 to Fallout Shelter 国际版 2.0.2 
+![翻译程度](https://img.shields.io/badge/进度-99%25-orange?style=flat-square)
 
-除人名外，全文本包括宠物名字。
+除随机NPC与图鉴里的传奇人名外，全文本翻译，包括宠物名字。
 
 本汉化版源于我的强迫症：因无法接受直译文本以及默认字体在UI上的粗糙表现，特此制作了这个从翻译到视觉完全优化的汉化补丁。
 
@@ -30,25 +30,25 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2877972565
 
 * **FuturaStd-CondensedBoldObl（典迹题幕 - 自行修改版）**
     * 采用字体：同上
-    * 额外修改： **倾斜 9°**。
+    * 额外修改： **倾斜 9°**
 
 * **monofonto（等距更紗黑）**
     * 采用字体：[SarasaMonoSC-Bold](https://github.com/be5invis/Sarasa-Gothic) (全码区)
 
-* **JennaSue (新叶念体)**
+* **JennaSue（新叶念体)**
     * 采用字体：[新叶念体](https://www.maoken.com/freefonts/701.html) (纯简体)
 
-* **Boogaloo-Regular (字制区喜脉体)**
+* **Boogaloo-Regular（字制区喜脉体）**
     * 采用字体：[字制区喜脉体](https://www.maoken.com/freefonts/8918.html) (纯简体)
 
-* **FontdinerSwanky (铁蒺藜体)**
+* **FontdinerSwanky（铁蒺藜体）**
     * 采用字体：[铁蒺藜体](https://github.com/Buernia/Tiejili) (简体 + 日文汉字)
 
-* **AIRSTREA (荊南波波黑 - 自行修改版)**
+* **AIRSTREA（荊南波波黑 - 自行修改版）**
     * 采用字体：[Kingnam Bobohei](https://github.com/maoken-fonts/KNBobohei) (简体 + 日文汉字)
-    * 额外修改：**倾斜 9°** + **宽度缩至 80%**。
+    * 额外修改：**倾斜 9°** + **宽度缩至 80%**
 	
 ---
 
-**另外说明：**
-Translation文件夹里有我做好的简体中文翻译、以及原版的txt文件。若想完美匹配繁体版，请注意替换掉上述列表里的四个简体字体（新叶念、字制区喜脉、铁蒺藜、荆南波波黑），并建议将典迹题幕与更纱黑自行更换为对应的TC/繁体版本，否则部分汉字将以简体字形标准显示，或fallback到系统默认字体。
+**P.S.：**
+Translation文件夹里有我做好的简体中文翻译、以及原版的txt文件。若想完美匹配繁体（或者其他非游戏自带语言），请一定替换掉上述列表里的四个简体字体（新叶念、字制区喜脉、铁蒺藜、荆南波波黑），并建议将典迹题幕与更纱黑自行更换为对应的TC/繁体版本，否则部分文字将以简体字形标准显示，或fallback到系统默认字体。
