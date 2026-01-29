@@ -3208,7 +3208,7 @@
      1 string m_lastName = ""
      1 string PieceName = "Cat-Bombay"
      1 string m_petID = "bombay_l"
-     1 string m_baseName = "Shadow"
+     1 string m_baseName = "影子"
      0 int m_sortIndex = 59
      0 DwellerPetItem m_Item
       1 string name = ""
@@ -5652,7 +5652,7 @@
      1 string m_lastName = ""
      1 string PieceName = "Dog-Dalmatian"
      1 string m_petID = "dalmatian_l2"
-     1 string m_baseName = "Lucky"
+     1 string m_baseName = "幸运"
      0 int m_sortIndex = 111
      0 DwellerPetItem m_Item
       1 string name = ""
@@ -5746,7 +5746,7 @@
      1 string m_lastName = ""
      1 string PieceName = "Dog-Akita"
      1 string m_petID = "akita_l2"
-     1 string m_baseName = "Kabosu"
+     1 string m_baseName = "神烦狗"
      0 int m_sortIndex = 113
      0 DwellerPetItem m_Item
       1 string name = ""
@@ -5981,7 +5981,7 @@
      1 string m_lastName = ""
      1 string PieceName = "Dog-Pitbull"
      1 string m_petID = "pitbullterrier_l"
-     1 string m_baseName = "Hulk"
+     1 string m_baseName = "浩克"
      0 int m_sortIndex = 118
      0 DwellerPetItem m_Item
       1 string name = ""
@@ -6357,7 +6357,7 @@
      1 string m_lastName = "Drone"
      1 string PieceName = "FloatingDrone-Alien"
      1 string m_petID = "Alien_Drone"
-     1 string m_baseName = "Alien Drone"
+     1 string m_baseName = "外星无人机"
      0 int m_sortIndex = 126
      0 DwellerPetItem m_Item
       1 string name = ""
@@ -6404,7 +6404,7 @@
      1 string m_lastName = "Drone"
      1 string PieceName = "Rollerbrain-Default"
      1 string m_petID = "Rollerbrain"
-     1 string m_baseName = "Rollerbrain"
+     1 string m_baseName = "履带脑"
      0 int m_sortIndex = 127
      0 DwellerPetItem m_Item
       1 string name = ""
