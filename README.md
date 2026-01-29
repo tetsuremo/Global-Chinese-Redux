@@ -93,8 +93,8 @@ BepInEx/plugins/ChinesePatch/
 - `PetsCustomizationData_<版本号>_Patch.txt` - 宠物名字翻译（可用UABEA直接导入回去）
 - `translations.txt` - 完整最新翻译文本，插件用
 
-`ChinesePatch/` 文件夹：插件源码
-`FontPatch/` 文件夹：字体补丁源码
+`ChinesePatch/` 文件夹：插件源码  
+`FontPatch/` 文件夹：字体补丁源码  
 
 ### 多语言适配
 若想适配**繁体中文**或其他语言：
