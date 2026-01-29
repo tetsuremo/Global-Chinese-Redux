@@ -14,7 +14,7 @@
 ## 🖼️ 效果预览
 | 无补丁版 | 补丁效果 |
 |----------|----------|
-| ![无字体补丁界面](Images/preview_none.jpg) | ![打字体补丁界面](Images/preview_patch.jpg) |
+| ![无字体补丁界面](Image/preview_none.jpg) | ![打字体补丁界面](Image/preview_patch.jpg) |
 
 ---
 
