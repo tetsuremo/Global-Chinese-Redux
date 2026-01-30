@@ -40,13 +40,13 @@
    - 下载本项目的 `ChinesePatch.zip`
    - 解压后将 `ChinesePatch` 文件夹复制到 `BepInEx/plugins/`
 
-3. **（可选）安装字体补丁**
+3. **（可选，推荐）安装字体补丁**
    - 下载并运行 `Patch.exe`
    - 程序会自动备份并替换游戏字体文件
 
 4. **启动游戏**
    - 直接运行 `FalloutShelter.exe`
-   - 首次启动需要等待BepInEx初始化
+   - 启动需要等待BepInEx初始化
 
 ---
 
@@ -78,10 +78,12 @@ BepInEx/plugins/ChinesePatch/
 | **FuturaStd-CondensedBold**<br>（游戏内标题） | [MonuTitl-0.96CnBd](https://github.com/MY1L/Monu) | OFL | 全码区支持，适合标题 |
 | **FuturaStd-CondensedBoldObl**<br>（倾斜标题） | MonuTitl + **倾斜9°** | OFL | 保持原版倾斜风格 |
 | **monofonto**<br>（等宽文本） | [SarasaMonoSC-Bold](https://github.com/be5invis/Sarasa-Gothic) | OFL | 等宽字体，代码显示佳 |
-| **JennaSue**<br>（手写风格） | [新叶念体](https://www.maoken.com/freefonts/701.html) | 免费商用 | 自然手写感 |
-| **Boogaloo-Regular**<br>（圆润风格） | [字制区喜脉体](https://www.maoken.com/freefonts/8918.html) | 免费商用 | 可爱圆润 |
+| **JennaSue**<br>（手写风格） | [字制区喜脉欢喜体](https://www.maoken.com/freefonts/22002.html) | 免费商用 | 自然手写感 |
+| **Boogaloo-Regular**<br>（圆润风格） | [字制区喜脉体](https://www.maoken.com/freefonts/8918.html) | 免费商用 | 修长圆润 |
 | **FontdinerSwanky**<br>（装饰风格） | [铁蒺藜体](https://github.com/Buernia/Tiejili) | OFL | 装饰性强 |
 | **AIRSTREA**<br>（特殊标题） | [标小智龙珠体](https://github.com/fontworks-fonts/RocknRoll)<br>+ **倾斜12°** + **缩小78%** | OFL | 特殊效果处理 |
+
+其中，除字制区两个字体外，其他字体皆为了适配游戏UI，做了移动基准线的修改。
 
 ---
 
@@ -89,12 +91,14 @@ BepInEx/plugins/ChinesePatch/
 
 `Translation/` 文件夹包含：
 - `LanguageSource_<版本号>_Original.txt` - 原版英文文本
-- `LanguageSource_<版本号>_Patch.txt` - 完整重新翻译（可用UABEA直接导入回去）
-- `PetsCustomizationData_<版本号>_Patch.txt` - 宠物名字翻译（可用UABEA直接导入回去）
+- `LanguageSource_<版本号>_Patch.txt` - UABEA用翻译补丁
+- `PetsCustomizationData_<版本号>_Patch.txt` - 宠物名字翻译（完美主义者可用）
 - `translations.txt` - 完整最新翻译文本，插件用
 
 `ChinesePatch/` 文件夹：插件源码  
 `FontPatch/` 文件夹：字体补丁源码  
+
+---
 
 ### 多语言适配
 若想适配**繁体中文**或其他语言：
