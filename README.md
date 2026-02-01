@@ -40,9 +40,9 @@
    - 下载本项目的 `ChinesePatch.zip`
    - 解压后将 `ChinesePatch` 文件夹复制到 `BepInEx/plugins/`
 
-3. **（可选，推荐）安装字体补丁**
-   - 下载并运行 `Patch.exe`
-   - 程序会自动备份并替换游戏字体文件
+~~3. **（可选，推荐）安装字体补丁**~~
+   ~~- 下载并运行 `Patch.exe`~~
+   ~~- 程序会自动备份并替换游戏字体文件~~
 
 4. **启动游戏**
    - 直接运行 `FalloutShelter.exe`
@@ -96,7 +96,6 @@ BepInEx/plugins/ChinesePatch/
 - `translations.txt` - 完整最新翻译文本，插件用
 
 `ChinesePatch/` 文件夹：插件源码  
-`FontPatch/` 文件夹：字体补丁源码  
 
 ---
 
